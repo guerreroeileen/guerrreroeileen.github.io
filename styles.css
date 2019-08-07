@@ -1,0 +1,55 @@
+li.personalContact {
+    display: inline;
+    padding-left: 10%;
+    padding-inline: 5%;
+    text-decoration: none;
+    color: antiquewhite;
+    
+  }
+td.pho{
+    padding-left: 15%;
+}
+
+table.tableCharacte{
+    padding: 12%;
+}
+table.buttonTable{
+    padding: 8%;
+    
+
+
+}
+td.buttonTd{
+    border-collapse: separate;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(115,113,115,1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(115,113,115,1);
+    box-shadow: 10px 10px 5px 0px rgba(115,113,115,1);
+    padding: 8%;
+}
+
+div.header-data {
+    background-color: #1d8267;
+}
+body {
+    padding-left: 15%;
+    padding-right: 15%;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+    padding-left: 15%;
+    color: antiquewhite;
+}
+h3 {
+    color: #1d8267;
+}
+p.major {
+    font-family: 'Oswald', sans-serif;
+    padding-left: 15%;
+    color: antiquewhite;
+}
+img.profile {
+    float: left;
+    position:absolute;
+    z-index: 1;
+}
